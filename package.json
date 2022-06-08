@@ -1,0 +1,22 @@
+{
+  "name": "tailwind-rep",
+  "version": "1.0.0",
+  "description": "Potifolo using tailwind",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yassin-hagenimana/tailwind-rep.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yassin-hagenimana/tailwind-rep/issues"
+  },
+  "homepage": "https://github.com/Yassin-hagenimana/tailwind-rep#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
+  }
+}
