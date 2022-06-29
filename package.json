@@ -6,11 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Yassin-hagenimana/tailwind-rep.git"
-  },
-  "author": "",
+  "repository": "git+https://github.com/Yassin-hagenimana/tailwind-rep.git",
+  "author": "Yassin-hagenimana <hyassin509@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Yassin-hagenimana/tailwind-rep/issues"
@@ -18,5 +15,8 @@
   "homepage": "https://github.com/Yassin-hagenimana/tailwind-rep#readme",
   "devDependencies": {
     "tailwindcss": "^3.0.24"
+  },
+  "dependencies": {
+    "pkg": "^5.7.0"
   }
 }
