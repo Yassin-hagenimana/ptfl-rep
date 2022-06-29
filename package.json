@@ -4,10 +4,12 @@
   "description": "Potifolo using tailwind",
   "main": "tailwind.config.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npm i"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "git+https://github.com/Yassin-hagenimana/tailwind-rep.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yassin-hagenimana/tailwind-rep.git"
+  },
   "author": "Yassin-hagenimana <hyassin509@gmail.com>",
   "license": "ISC",
   "bugs": {
